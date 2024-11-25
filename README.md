@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Kishore Vijayakumar 👨‍💻  
+# 👋 Hi there! I'm Kishore V 👨‍💻  
 
 🚀 **Aspiring Data Scientist | AI/ML Enthusiast | Python Proficient**
 
@@ -9,8 +9,8 @@
 Welcome to my GitHub!  
 I'm a tech enthusiast with a passion for **Data Science** and **Machine Learning**, equipped with:  
 - 🎓 A **Master's in Data Science** from Deakin University, Australia  
-- 🎓 A **PGP in Artificial Intelligence and Machine Learning**  
-- 🎓 A **Bachelor's in Computer Science**  
+- 🎓 A **PGP in Artificial Intelligence and Machine Learning, University of Texas - Great Lakes**  
+- 🎓 A **Bachelor's in Computer Science, University of Kerala**  
 
 My journey has been about crafting intelligent, data-driven solutions, with expertise spanning Python, R, and end-to-end project pipelines. My portfolio highlights impactful projects in:  
 - 📊 Predictive Modeling & Advanced Analytics  
@@ -43,7 +43,7 @@ My journey has been about crafting intelligent, data-driven solutions, with expe
 |---------------------------|------------------------------------------------------------------------------------------|
 | **AI/ML**                 | Predictive Analytics, Classification Models, Neural Networks, Regression Models          |
 | **Data Science**          | EDA, Statistical Modeling, Data Cleaning, and Feature Engineering                        |
-| **Web Development**       | HTML, CSS, PHP - Developed a **college project** to enhance user experience              |
+| **Web Development**       | HTML, CSS, PHP - Developed a **college website** to enhance user experience              |
 | **Mobile App Development**| Designed a **Java-based Music Player App** for seamless audio playback                   |
 
 ---
@@ -69,16 +69,16 @@ My journey has been about crafting intelligent, data-driven solutions, with expe
 
 ### 📊 GitHub Activity Stats  
 
-![Kishore's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)  
+![Kishore's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kishore-ksr&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kishore-ksr&layout=compact&theme=radical)  
 
 ---
 
 ### 📫 Connect with Me!  
 
-- 💼 [LinkedIn](https://linkedin.com/in/kishore-vijayakumar)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/kishorev22/)  
 - 📧 [Email](mailto:kishorev.primary@gmail.com)  
-- 🌐 [Linktree](https://linktr.ee/your-linktree)  
+- 🌐 [Linktree](https://linktr.ee/kishorev22)  
 
 ---
 
