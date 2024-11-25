@@ -43,7 +43,7 @@ My journey has been about crafting intelligent, data-driven solutions, with expe
 |---------------------------|------------------------------------------------------------------------------------------|
 | **AI/ML**                 | Predictive Analytics, Classification Models, Neural Networks, Regression Models          |
 | **Data Science**          | EDA, Statistical Modeling, Data Cleaning, and Feature Engineering                        |
-| **Web Development**       | HTML, CSS, PHP - Developed a **college website** to enhance user experience              |
+| **Web Development**       | HTML, CSS, PHP, SQL - Developed a **college website** to enhance user experience              |
 | **Mobile App Development**| Designed a **Java-based Music Player App** for seamless audio playback                   |
 
 ---
